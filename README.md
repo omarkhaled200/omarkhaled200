@@ -15,13 +15,13 @@
 <h2 align="left">🙋‍♂️ About Me</h2>
 
 ###
-<p align="right">
-  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Profile Picture" width="100" style="border-radius: 50%;"/>
+<p align="left" style="display: flex; align-items: center;">
+  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Profile Picture" width="100" style="border-radius: 50%; margin-right: 10px;"/>
+  <span>🔭 I’m currently working as a Mobile Application Developer 📱.</span>
 </p>
-
-<p align="left">🔭 I’m currently working as a Mobile Application Developer 📱.</p>
 <p align="left">🌱 I’m currently learning Advanced Flutter.</p>
 <p align="left">👨‍💻 All of my projects are available at My Repository.</p>
+
 
 
 
