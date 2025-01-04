@@ -15,14 +15,15 @@
 <h2 align="left">🙋‍♂️ About Me</h2>
 
 ###
-<div style="display: flex; flex-direction: row-reverse; align-items: center; text-align: right;">
-  <div style="margin-left: 15px;">
+<div style="display: flex; align-items: center; justify-content: flex-end;">
+  <div style="text-align: right; margin-left: 20px;">
     <p>🔭 I’m currently working as a Mobile Application Developer 📱.</p>
     <p>🌱 I’m currently learning Advanced Flutter.</p>
     <p>👨‍💻 All of my projects are available at My Repository.</p>
   </div>
   <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Profile Picture" width="100" style="border-radius: 50%;"/>
 </div>
+
 
 ###
 
