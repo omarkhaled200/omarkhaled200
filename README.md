@@ -16,13 +16,13 @@
 
 ###
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Profile Picture" width="100" style="margin-right: 15px; border-radius: 50%;" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <p>🔭 I’m currently working as a Mobile Application Developer 📱.</p>
     <p>🌱 I’m currently learning Advanced Flutter.</p>
     <p>👨‍💻 All of my projects are available at My Repository.</p>
   </div>
+  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Profile Picture" width="100" style="margin-left: 15px; border-radius: 50%;" />
 </div>
 
 ###
