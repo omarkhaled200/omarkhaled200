@@ -101,6 +101,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/omarkhaled200/omarkhaled200/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/omarkhaled200/omarkhaled200/Snake.yml" alt="Snake animation" />
 
 ###
