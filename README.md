@@ -101,6 +101,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/omarkhaled200/omarkhaled200/output/snake.svg" alt="Snake animation" />
 
 ###
