@@ -16,17 +16,15 @@
 
 ###
 
-<div style="display: inline-block; vertical-align: middle; margin-right: 15px;">
+<div align="center">
   <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Profile Picture" width="100" style="border-radius: 50%;"/>
 </div>
-<div style="display: inline-block; vertical-align: middle;">
+
+<div align="center">
   <p>🔭 I’m currently working as a Mobile Application Developer 📱.</p>
   <p>🌱 I’m currently learning Advanced Flutter.</p>
   <p>👨‍💻 All of my projects are available at My Repository.</p>
 </div>
-
-
-
 
 
 
