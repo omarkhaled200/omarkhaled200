@@ -16,7 +16,14 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently working as a Mobile Application Developer 📱 .<br><br>🌱 I’m currently learning Advanced Flutter.<br><br>👨‍💻 All of my projects are available at My Repository.</h5>
+<div style="display: flex; align-items: center;">
+  <img src="[https://via.placeholder.com/150](http://www.domme.com.br/)" alt="Profile Picture" width="100" style="margin-right: 15px; border-radius: 50%;" />
+  <div>
+    <p>🔭 I’m currently working as a Mobile Application Developer 📱.</p>
+    <p>🌱 I’m currently learning Advanced Flutter.</p>
+    <p>👨‍💻 All of my projects are available at My Repository.</p>
+  </div>
+</div>
 
 ###
 
