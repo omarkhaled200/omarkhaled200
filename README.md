@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=900&lines=+Hi+%F0%9F%91%8B!+I'm+Omar+Khaled+%E2%9D%A4%EF%B8%8F;Welcome+My+Friend+%E2%9D%A4%EF%B8%8F+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=+Hi+%F0%9F%91%8B!+I'm+Omar+Khaled+%E2%9D%A4%EF%B8%8F;Welcome+My+Friend+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <h2 align="center">Flutter Developer 💻</h2>
 
