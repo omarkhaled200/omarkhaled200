@@ -14,9 +14,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Profile Picture" width="300" style="border-radius: 50%;"/>
-</div>
+
+<img align="right" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif?raw=true" width=30%>
 
 <br><br>
 - :school: I am a `Fresh Graduate` from the [Faculty Of Computer And Artificial Intelligence](https://fci.bu.edu.eg/) at [Banha University](https://www.bu.edu.eg/en/).
@@ -25,6 +24,8 @@
 - :nerd_face: Always `learning new things`.
 - :boom: All of my projects are available at  [MY REPOSITORY](https://github.com/omarkhaled200?tab=repositories/).
 <br>
+
+
 
 
 ###
