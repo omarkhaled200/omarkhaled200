@@ -15,6 +15,7 @@
 ###
 
 <img align="right" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif?raw=true" width=30%>
+
 <br><br>
 - :school: I am a `Fresh Graduate` from the [Faculty Of Computer And Artificial Intelligence](https://fci.bu.edu.eg/) at [Banha University](https://www.bu.edu.eg/en/).
 -   <p>🔭 I’m currently working as a Mobile Application Developer 📱.</p>
