@@ -20,8 +20,8 @@
 
 <br><br>
 - :school: I am a `Fresh Graduate` from the [Faculty Of Computer And Artificial Intelligence](https://fci.bu.edu.eg/) at [Banha University](https://www.bu.edu.eg/en/).
-  <p>🔭 I’m currently working as a Mobile Application Developer 📱.</p>
-  <p>🌱 I’m currently learning Advanced Flutter.</p>
+-   <p>🔭 I’m currently working as a Mobile Application Developer 📱.</p>
+-   <p>🌱 I’m currently learning Advanced Flutter.</p>
 - :nerd_face: Always `learning new things`.
 - :boom: All of my projects are available at  [MY REPOSITORY](https://github.com/omarkhaled200?tab=repositories/).
 <br>
