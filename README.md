@@ -24,6 +24,16 @@
   <p>👨‍💻 All of my projects are available at (https://github.com/omarkhaled200?tab=repositories).</p>
 </div>
 
+<br><br>
+- :school: I am a `Fresh Graduate` from the [Faculty Of Computer And Artificial Intelligence](https://fci.bu.edu.eg/) at [Banha University](https://www.bu.edu.eg/en/).
+- :trophy: 2x `ACPC` Contests.
+- :technologist: I love using Software to solve every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and ` Sciencetfic Computing` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17u7rq4kS416OTnefLDP1UwoqrvZJ47au/view?usp=sharing)).
+- :boom: You can visit [MY WEBSITE](https://abdelrahman-magdii.github.io/Portfolio.live/).
+<br>
 
 
 ###
